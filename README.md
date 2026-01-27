@@ -46,7 +46,7 @@
   <p>Developed and optimized a deep learning-based digit recognition system with 98%+ accuracy, integrating real-time prediction and visualization to enhance model interpretability and user interaction.</p>
   <ul>
     <li><b>Technologies Used:</b> TensorFlow, Keras, Python, Tkinter, Matplotlib, Pandas, NumPy</li>
-    <li><b>Repository:</b> <a href="https://github.com/venkatasumanthrayasam/Hand-Digit-Recognition-System">Hand Digit Recognition System</a></li>
+    <li><b>Repository:</b> <a href="https://github.com/rvsumanth/Hand-Digit-Recognition-System">Hand Digit Recognition System</a></li>
   </ul>
 </details>
 
@@ -57,14 +57,14 @@
 ### GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatasumanthrayasam&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasumanthrayasam&layout=compact&theme=dark" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com/?user=venkatasumanthrayasam&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rvsumanth&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsumanth&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=rvsumanth&theme=dark" alt="GitHub Streak Stats"/>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatasumanthrayasam&theme=dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&theme=dark" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@
   <a href="https://linkedin.com/in/rvsumanth">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/venkatasumanthrayasam">
+  <a href="https://github.com/rvsumanth">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
