@@ -50,14 +50,7 @@
   </ul>
 </details>
 
-<details>
-  <summary><b>2. Phishing Detect</b></summary>
-  <p>A web-based tool for phishing detection.</p>
-  <ul>
-    <li><b>Tools Used:</b> Python, HTML, CSS, JavaScript, Pandas, NumPy</li>
-    <li><b>Repository:</b> <a href="https://github.com/venkatasumanthrayasam/Phishing-detect">Phishing Detect</a></li>
-  </ul>
-</details>
+
 
 ---
 
