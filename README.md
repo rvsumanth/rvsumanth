@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rvsumanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rvsumanth)
 [![GitHub](https://img.shields.io/badge/GitHub-rvsumanth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rvsumanth)
 
-<img src="https://komarev.com/ghpvc/?username=rvsumanth&label=Profile+Views&color=1f6feb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=rvsumanth&amp;label=Profile+Views&amp;color=1f6feb&amp;style=flat-square" />
 
 </div>
 
@@ -233,21 +233,21 @@ class SumanthRayasam:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rvsumanth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rvsumanth&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1f6feb&amp;text_color=c9d1d9" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsumanth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsumanth&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=rvsumanth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff" />
+<img width="68%" src="https://streak-stats.demolab.com/?user=rvsumanth&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=1f6feb&amp;ring=58a6ff&amp;fire=ff7b00&amp;currStreakLabel=58a6ff" />
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&amp;theme=github-compact&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=1f6feb&amp;point=ffffff&amp;hide_border=true" />
 
 </div>
 
@@ -257,7 +257,7 @@ class SumanthRayasam:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rvsumanth&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rvsumanth&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" />
 
 </div>
 
@@ -278,7 +278,7 @@ class SumanthRayasam:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" />
 
 <br><br>
 
@@ -286,4 +286,4 @@ class SumanthRayasam:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58a6ff,50:1f6feb,100:0d1117&amp;height=120&amp;section=footer" />
