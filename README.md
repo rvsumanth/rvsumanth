@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:1f6feb,100:58a6ff&height=220&section=header&text=Venkata%20Sumanth%20Rayasam&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%7C%20Aspiring%20Analytical%20Software%20Developer&descAlignY=62&descSize=17&animation=fadeIn" />
+<h1>Venkata Sumanth Rayasam</h1>
 
 <div align="center">
 
