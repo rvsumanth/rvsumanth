@@ -35,6 +35,8 @@ Machine Learning · Deep Learning · Object-Oriented Programming · Computer Net
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsumanth&layout=compact&hide_border=true&theme=default)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&hide_border=true&theme=minimal)
+
 ---
 
 📫 venkatasumanthrayasam@gmail.com · [linkedin.com/in/rvsumanth](https://linkedin.com/in/rvsumanth)
