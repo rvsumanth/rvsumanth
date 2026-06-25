@@ -4,7 +4,7 @@ Aspiring **ML Engineer** and **Backend Developer** — building practical AI/ML 
 
 ---
 
-## Skills i posses
+## Skills i have
 
 - **Languages** — Python · SQL
 - **Libraries & Frameworks** — FastAPI · Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · Keras · SciPy
