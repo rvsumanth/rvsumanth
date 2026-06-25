@@ -4,14 +4,14 @@ Aspiring **ML Engineer** and **Backend Developer** — building practical AI/ML 
 
 ---
 
-## Skills i have
+## Technical Skills i have
 
-- **Languages** — Python · SQL
-- **Libraries & Frameworks** — FastAPI · Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · Keras · SciPy
-- **Databases** — MySQL
-- **Cloud & Platforms** — AWS (Cloud Architecting, ML Foundations)
-- **Tools & Version Control** — Git · GitHub · VS Code · Google Colab · Microsoft Office
-- **AI & Development** — GitHub Copilot · Claude AI · ChatGPT / Gemini
+- **Languages** — Python · SQL  
+- **Libraries & Frameworks** — FastAPI · Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow · Keras · SciPy  
+- **Databases** — MySQL  
+- **Cloud & Platforms** — AWS (Cloud Architecting, ML Foundations)  
+- **Tools & Version Control** — Git · GitHub · VS Code · Google Colab · Microsoft Office  
+- **AI & Development** — GitHub Copilot · Claude AI · ChatGPT / Gemini  
 - **Core Concepts** — Machine Learning · Deep Learning · Object-Oriented Programming · Computer Networks
 
 ---
@@ -25,8 +25,10 @@ Aspiring **ML Engineer** and **Backend Developer** — building practical AI/ML 
   </tr>
 </table>
 
+![Streak Stats](https://streak-stats.demolab.com/?user=rvsumanth&hide_border=true&theme=default)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&hide_border=true&theme=minimal)
 
 ---
 
-📫 venkatasumanthrayasam@gmail.com · [linkedin.com/in/rvsumanth](https://linkedin.com/in/rvsumanth)
+Contact me through: venkatasumanthrayasam@gmail.com · [linkedin.com/in/rvsumanth](https://linkedin.com/in/rvsumanth)
