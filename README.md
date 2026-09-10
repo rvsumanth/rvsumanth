@@ -1,7 +1,7 @@
 # Venkata Sumanth Rayasam
 ### I like to design systems <br>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=rvsumanth&color=blue&style=flat)
+[Profile Views](https://komarev.com/ghpvc/?username=rvsumanth&color=blue&style=flat)
 
 ---
 
