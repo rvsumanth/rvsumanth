@@ -1,7 +1,6 @@
 # Venkata Sumanth Rayasam
 ### I like to design systems <br>
 <br>
----
 
 ## GitHub Stats
 
