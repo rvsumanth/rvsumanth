@@ -1,15 +1,7 @@
 # Venkata Sumanth Rayasam
-_Aspiring **ML Engineer** and **Backend Developer**_ <br>
+### I like to design systems_ <br>
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=rvsumanth&color=blue&style=flat)
----
-
-## Technical Skills i have
-
-- **Languages** — Python · SQL · Javascript  
-- **Libraries & Frameworks** — FastAPI · Pandas · NumPy · Matplotlib · Scikit-learn       
-- **Tools & Version Control** — Git · GitHub · VS Code · Google Colab 
-- **Core Concepts** — Machine Learning · Deep Learning · Object-Oriented Programming · Computer Networks
 
 ---
 
