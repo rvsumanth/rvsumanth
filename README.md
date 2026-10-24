@@ -13,11 +13,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=rvsumanth&hide_border=true&theme=default" alt="GitHub Streak Stats">
 
-</div>
+
 
 
 ---
