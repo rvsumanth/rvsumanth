@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Venkata Sumanth Rayasam
 
@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/rvsumanth"><img src="https://img.shields.io/badge/LinkedIn-rvsumanth-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://komarev.com/ghpvc/?username=rvsumanth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 
-</div>
 
 ---
 
@@ -20,13 +19,6 @@
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&hide_border=true&theme=minimal" alt="Activity Graph" width="100%">
-
-</div>
 
 ---
 
